@@ -2,6 +2,9 @@
 
 ### Setup/Installation Requirements
 1. Clone Code from github
+```
+$ git clone https://github.com/abhishek166/employee.git
+```
 2. Create a new environment of your own:
 ```
 $ sudo apt update
